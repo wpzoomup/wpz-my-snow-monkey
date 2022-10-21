@@ -8,7 +8,7 @@
  * Requires at least: 6.0
  * Requires PHP: 7.3
  * Author: WP ZoomUP
- * Author URI: https://profiles.wordpress.org/wpzoomup/
+ * Author URI: https://wpzoomup.com
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wpz-my-snow-monkey
