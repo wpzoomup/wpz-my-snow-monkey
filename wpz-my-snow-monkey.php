@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin name: WPZ My Snow Monkey
- * Description: Snow Monkeyを WP ZoomUP 向けにスタイルをカスタムします。
+ * Description: Snow Monkey 用カスタマイズコードを管理するプラグインです。
  * Version: 1.0.0
  *
  * @package wpz-my-snow-monkey
