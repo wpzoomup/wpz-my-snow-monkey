@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+:root {
+
+	--color-orange: #297B0D;
+	--color-green: #F66F20;
+
+
+	// break point 640px 1280px
+	// --font-size-xxs: clamp(10px, calc(0.3125vw + 0.5rem), 12px);
+	--font-size-xs: clamp(0.625rem, calc(0.3125vw + 0.5rem), 0.75rem);
+
+	// --font-size-xs: clamp(12px, calc(0.3125vw + 0.625rem), 14px);
+	--font-size-sm: clamp(0.75rem, calc(0.3125vw + 0.625rem), 0.875rem);
+
+	// --font-size-sm: clamp(14px, calc(0.3125vw + 0.75rem), 16px);
+	--font-size-base: clamp(0.875rem, calc(0.3125vw + 0.75rem), 1rem);
+
+	// --font-size-md: clamp(16px, calc(0.625vw + 0.75rem), 20px);
+	--font-size-md: clamp(1rem, calc(0.625vw + 0.75rem), 1.25rem);
+
+	// --font-size-lg: clamp(18px, calc(0.9375vw + 0.75rem), 24px);
+	--font-size-lg: clamp(1.125rem, calc(0.9375vw + 0.75rem), 1.5rem);
+
+	// --font-size-xl: clamp(20px, calc(1.875vw + 0.5rem), 32px);
+	--font-size-xl: clamp(1.25rem, calc(1.875vw + 0.5rem), 2rem);
+
+	// --font-size-xxl: clamp(24px, calc(2.5vw + 0.5rem), 40px);
+	--font-size-xxl: clamp(1.5rem, calc(2.5vw + 0.5rem), 2.5rem);
+
+	// --font-size-xxxl: clamp(32px, calc(2.5vw + 1rem), 48px);
+	--font-size-xxxl: clamp(2rem, 2.5vw + 1rem, 3rem);
+
+	--font-size-page-title: var(--font-size-xxxl);
+	--font-size-single-page-title: var(--font-size-xxl);
+	--font-size-h2: var(--font-size-xl);
+	--font-size-h3: var(--font-size-lg);
+	--font-size-h4: var(--font-size-md);
+	--font-size-h5: var(--font-size-base);
+	--font-size-h6: var(--font-size-base);
+
+}
