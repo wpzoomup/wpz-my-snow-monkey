@@ -1,12 +1,17 @@
 <?php
 /**
  * Plugin name: WPZ My Snow Monkey
+ * Plugin URI: https://github.com/wpzoomup/wpz-my-snow-monkey
  * Description: Snow Monkey 用カスタマイズコードを管理するプラグインです。
  * Version: 1.0.0
- *
- * @package wpz-my-snow-monkey
- * @author wpzoomup
- * @license GPL-2.0+
+ * Tested up to: 6.0.3
+ * Requires at least: 6.0
+ * Requires PHP: 7.3
+ * Author: WP ZoomUP
+ * Author URI: https://profiles.wordpress.org/wpzoomup/
+ * License: GPL2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: wpz-my-snow-monkey
  */
 
 /**
